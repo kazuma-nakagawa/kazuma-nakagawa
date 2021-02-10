@@ -1,28 +1,10 @@
 ### Hi there ⛄
 
-<img align="right" src="https://media.giphy.com/media/cs9AnwADBj60g/giphy.gif" width="150">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ryuyxx&theme=onedark&title=Joined2020,Stars,Commit,Repositories,Followers,Issues)
-
-![stats](https://github-readme-stats.vercel.app/api?username=Ryuyxx&count_private=true&show_icons=true&theme=react&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuyxx&layout=compact&theme=react)
 
 
+![trophy](https://github-profile-trophy.vercel.app/?username=kazuma-nakagawa&theme=onedark&title=Joined2020,Stars,Commit,Repositories,Followers,Issues)
 
-<details><summary>🦔 Quick Facts</summary>
-<img align="right" src="https://media.giphy.com/media/vpioNfKK8OFGHuUDMz/giphy.gif" width="300">
+![stats](https://github-readme-stats.vercel.app/api?username=kazuma-nakagawa&count_private=true&show_icons=true&theme=react&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuma-nakagawa&layout=compact)
 
-- 🌱 **I’m currently learning:**  ML/DL  
-- 💬 **Ask me about:**  Anythin! / Sci-Fi movie
-- 💙 **I LOVE BUILDING COMPUTERS!!**  [M-ITX mainly]
-  - My Baby Specs
-  - Ryzen™ 9 5950X
-  - GEFORCE RTX 3090
-  - 64GB RAM & M.2 2TB
 
-</details>  
-
-<details><summary>📆 Week Stats</summary>
-
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ryuyxx&layout=compact&theme=react)
-</details>
