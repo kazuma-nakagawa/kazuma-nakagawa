@@ -1,5 +1,4 @@
-### Hi there ⛄
-
+### Hi there 🥢
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=kazuma-nakagawa&theme=onedark&title=Joined2020,Stars,Commit,Repositories,Followers,Issues)
